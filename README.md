@@ -1,0 +1,2 @@
+# Odin-recipe
+Basic project
